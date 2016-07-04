@@ -177,6 +177,5 @@ $(document).keydown(function(e) {
     }
     e.preventDefault(); // prevent the default action (scroll / move caret)
 });
-alert("this is a test");
     // draw loop
     setInterval(drawLoop, 1);
